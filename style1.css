@@ -1,0 +1,16 @@
+input[type = text]{
+	
+}
+
+button{
+	font-family: 'helvetica neue',helvetica,sans-serif;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	background: blue;
+	color: white;
+	width: 20%;
+	padding: 10px 50px;
+	display: inline-block;
+	cursor: pointer;
+}
